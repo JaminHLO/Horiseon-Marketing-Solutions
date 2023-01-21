@@ -8,6 +8,14 @@ This website is where Horiseon Social Solution Services (Horiseon) offers its on
 
 This website has been tested to be functional on Chrome, MS Edge, and Brave. 
 
+The site is accessable here: <https://jaminhlo.github.io/ch01-urban-octo-telegram/Develop/>
+
+Screenshot of Menu section of website:
+![menu section of Horiseon website](assets/ss01.jpg)
+
+Screenshot of Services section of website:
+![services section of Hosiseon website](assets/ss02.jpg)
+
 WARNING: The current iteration of this website is tailored for screen resolutions greater than or equal to 768px. When viewed at a smaller resolution, misalignment of elements may occur. 
 For example: 
 ![misaligned menu bar text due to small resolution](assets/resolution_ss_sm01.jpg)
@@ -15,15 +23,15 @@ For example:
 ## Credits
 
 Credit goes to Xandromus for the front end design and the initial code base. 
-https://github.com/coding-boot-camp/urban-octo-telegram
+<https://github.com/coding-boot-camp/urban-octo-telegram>
 
 Instruction was provided by Instructors CJ and Saurav with assistance from TAs Andreas #1, Andreas #2, Constan, and Morgan.
 
 For a breakdown of semantic elements necessary for the website I used: 
-https://www.w3schools.com/html/html5_semantic_elements.asp
+<https://www.w3schools.com/html/html5_semantic_elements.asp>
 
 For a better understanding of using markdown in a README file, I used: 
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+<https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide>
 
 ## License
 
