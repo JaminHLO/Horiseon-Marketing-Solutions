@@ -19,8 +19,11 @@ https://github.com/coding-boot-camp/urban-octo-telegram
 
 Instruction was provided by Instructors CJ and Saurav with assistance from TAs Andreas #1, Andreas #2, Constan, and Morgan.
 
-For a breakdown of semantic elements necessary for the website I used: https://www.w3schools.com/html/html5_semantic_elements.asp
-For a better understanding of using markdown in a README file, I used: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+For a breakdown of semantic elements necessary for the website I used: 
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+For a better understanding of using markdown in a README file, I used: 
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
 
