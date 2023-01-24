@@ -8,7 +8,7 @@ This website is where Horiseon Social Solution Services (Horiseon) offers its on
 
 This website has been tested to be functional on Chrome, MS Edge, and Brave. 
 
-The site is accessable here: <https://jaminhlo.github.io/ch01-urban-octo-telegram/Develop/>
+The site is accessable here: <https://jaminhlo.github.io/Horiseon-Marketing-Solutions/Develop/>
 
 Screenshot of Menu section of website:
 ![menu section of Horiseon website](assets/ss01.jpg)
